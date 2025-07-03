@@ -73,16 +73,16 @@ const Footer = () => {
                       <span className='text-gray-600'>Mumbai</span>
                       <p className='font-bold  text-2xl'>Social Links:</p>
                                    <div className='flex flex-row bg-gray-300 mt-2'>
-                                       <Link to={"https://www.instagram.com/kaushalkrsna/"}>
+                                       <Link to={"https://www.instagram.com/viratian.r_k_prabhat_18?igsh=enYwZzJtMzBsZ2Fh"}>
                                            <img className='h-[20px] w-[20px] mx-2' src={insta} alt="" />
                                        </Link>
                                        {/* <Link to={"https://in.pinterest.com/swiggyindia/"}>
                                            <img className='h-[20px] w-[20px] mx-2' src={pin} alt="" />
                                        </Link> */}
-                                       <Link tp={"https://x.com/Kaushalkrsna"}>
+                                       <Link to={"https://x.com/RohitKu35382174?t=O-_qbQmBIOA1IX1H7684UA&s=09"}>
                                            <img className='h-[20px] w-[20px] mx-2' src={x} alt="" />
                                        </Link>
-                                       <Link to={"https://www.facebook.com/KaushalKrsna"}>
+                                       <Link to={"https://www.facebook.com/share/1B176mgJ5q/?mibextid=qi2Omg"}>
                                            <img className='h-[20px] w-[20px] mx-2' src={facebook} alt="" />
                                        </Link>
                                     </div>
